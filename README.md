@@ -53,7 +53,7 @@ As an AI & Data Science student at UBI, I bridge the gap between traditional dat
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3><a href="https://github.com/DinisAmado/Projeto">🧠 LLM Sentiment Engine</a></h3>
+        <h3><a href="https://github.com/DinisAmado/LLM-Sentiment-Analysis">🧠 LLM Sentiment Engine</a></h3>
         <p>Comparative study of <b>Sentiment Analysis</b> using LLMs. Implementing <b>Prompt Engineering</b> and zero-shot learning to evaluate emotional nuances in unstructured text.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LLM-Generative%20AI-red?style=flat-square" />
