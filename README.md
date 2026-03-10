@@ -1,47 +1,52 @@
-# Hi, I'm Dinis Amado! 👋
+# Hi there, I'm Dinis Rafael Perpétuo Amado! 👋
 
-🎓 Final-year **Artificial Intelligence and Data Science** student at the [University of Beira Interior (UBI)](https://www.ubi.pt/), Portugal.
-
-I am passionate about transforming raw data into actionable insights and building Machine Learning models to solve complex real-world problems. Currently, I am looking for internship or junior role opportunities in **Data Science**, **Data Analysis**, or **AI Engineering**.
+### 🎓 Final Year AI & Data Science Student @ UBI
+I'm a passionate **Data Science** and **Artificial Intelligence** student at the University of Beira Interior. I enjoy turning complex datasets into meaningful stories and building intelligent systems that solve real problems.
 
 ---
 
 ### 🚀 About Me
-- 📚 Currently focusing on: **[e.g., Deep Learning, Natural Language Processing, or MLOps]**
-- 🛠️ Technical Background: Strong foundation in statistics, database management, and predictive modeling developed during my degree at UBI.
-- 💬 Ask me about: **Python, SQL, Data Visualization, or Statistical Analysis.**
-- 📫 How to reach me: **dinisrafaelamado@gmail.com**
+- 🔭 I’m currently working on my **Bachelor's Degree Project** at UBI.
+- 🌱 I’m currently deepening my knowledge in **Deep Learning, NLP, and Big Data**.
+- 📊 I have experience with **Statistical Analysis (SPSS)** and **Database Management (SQL Server)**.
+- ⚡ Fun fact: I love the challenge of optimizing algorithms and the "eureka" moment of a successful model.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Programming & Markup Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+**Data Science & AI:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=flat-square&logo=ibm&logoColor=white)
 
-**Data Science & Machine Learning (Python Libraries):**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Databases & Analytics:**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) *(SSMS)*
-![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+**Databases & Tools:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-### 📊 Featured Projects
+### 📈 GitHub Stats (The "Cool" Part)
+*These cards update automatically based on your activity!*
 
-* **[Project Name 1]** - A brief description in English of what the project does. Mention the problem you solved.
-    * *Technologies: Python, Pandas, Scikit-Learn*
-* **[Project Name 2]** - Explain the dataset used and the main goal (e.g., "Predictive analysis of X using SQL Server and Python").
-    * *Technologies: SQL, Python, Matplotlib*
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TEU_USER_AQUI]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TEU_USER_AQUI]&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
 
 ---
 
-### 🌐 Connect with me
+### 📁 Academic Projects (UBI)
 
+* **[Project Name]** - Brief description of a project you did in a specific class (e.g., Computer Vision or Databases).
+* **[Project Name]** - Another project highlighting your SQL or Python skills.
+
+---
+
+### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
