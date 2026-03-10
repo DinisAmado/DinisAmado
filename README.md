@@ -15,17 +15,17 @@ As an AI & Data Science student at UBI, I bridge the gap between traditional dat
 
 ### 🛠️ Tech Stack & Tools
 
-**Data Visualization & Business Intelligence:**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-FFDE00?style=flat-square&logo=knime&logoColor=black)
-
 **Data Science & Artificial Intelligence:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Generative%20AI-red?style=flat-square)
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=flat-square&logo=ibm&logoColor=white)
+
+**Data Visualization & Business Intelligence:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFDE00?style=flat-square&logo=knime&logoColor=black)
 
 **Development & Infrastructure:**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
