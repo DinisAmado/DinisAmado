@@ -38,9 +38,11 @@ As an AI & Data Science student at UBI, I bridge the gap between traditional dat
 
 ### 📈 GitHub Stats (The "Cool" Part)
 
+### 📈 GitHub Stats
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinisAmado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisAmado&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DinisAmado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinisAmado&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" />
 </p>
 
 ---
