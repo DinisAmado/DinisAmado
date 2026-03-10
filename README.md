@@ -34,8 +34,8 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 *These cards update automatically based on your activity!*
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TEU_USER_AQUI]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TEU_USER_AQUI]&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[DinisAmado]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DinisAmado]&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/dinis-amado-861779396//)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinisrafaelamado@gmail.com)
