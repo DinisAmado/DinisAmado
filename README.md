@@ -1,7 +1,7 @@
 # Hi there, I'm Dinis Rafael Perpétuo Amado! 👋
 
 ### 🎓 Final Year AI & Data Science Student @ UBI
-I'm a passionate **Data Science** and **Artificial Intelligence** student at the University of Beira Interior. I enjoy turning complex datasets into meaningful stories and building intelligent systems that solve real problems.
+As an AI & Data Science student at UBI, I bridge the gap between traditional data engineering and the new era of Generative AI. I have a deep passion for unlocking the potential of unstructured data, specifically through Large Language Models (LLMs) to decode human sentiment and language nuances. My toolkit ranges from Predictive Modeling in Python and SQL to advanced NLP and Computer Vision techniques. I don't just build models; I aim to create scalable, intelligent solutions that turn raw data into meaningful stories and automated decisions.
 
 ---
 
@@ -15,18 +15,24 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 
 ### 🛠️ Tech Stack & Tools
 
-**Data Science & AI:**
+**Data Visualization & Business Intelligence:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFDE00?style=flat-square&logo=knime&logoColor=black)
+
+**Data Science & Artificial Intelligence:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-red?style=flat-square)
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-0062FF?style=flat-square&logo=ibm&logoColor=white)
 
-**Databases & Tools:**
+**Development & Infrastructure:**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
