@@ -31,7 +31,6 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 ---
 
 ### 📈 GitHub Stats (The "Cool" Part)
-*These cards update automatically based on your activity!*
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[DinisAmado]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -48,5 +47,5 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/dinis-amado-861779396//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/https://www.linkedin.com/in/dinis-amado-861779396//](https://www.linkedin.com/in/dinis-amado-861779396/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinisrafaelamado@gmail.com)
