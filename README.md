@@ -41,9 +41,44 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
 
 ### 📁 Academic Projects (UBI)
 
-* **[Project Name]** - Brief description of a project you did in a specific class (e.g., Computer Vision or Databases).
-* **[Project Name]** - Another project highlighting your SQL or Python skills.
-
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>♻️ Smart Waste Classifier</h3>
+        <p>A Deep Learning system for automated waste sorting. Uses <b>CNNs</b> for feature extraction and multi-class classification of recyclables.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-5D3FD3?style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>📝 AI Text Summarizer</h3>
+        <p>An <b>NLP</b> tool designed to generate concise summaries from large documents using sequence-to-sequence models and linguistic processing.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🤖 Autonomous Robotics Hub</h3>
+        <p>Development of control algorithms and perception systems for autonomous robot navigation. Part of the <b>UBI Robotics 2026</b> initiative.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Robotics-000000?style=flat-square&logo=ros&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>📊 Advanced Data Insights</h3>
+        <p>A comprehensive repository of <b>Predictive Modeling</b> and <b>Exploratory Data Analysis (EDA)</b> applied to real-world datasets.</p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Science-276DC3?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🌐 Let's Connect
