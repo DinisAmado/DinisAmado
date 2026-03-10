@@ -45,7 +45,7 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <a href="https://github.com/DinisAmado/CNN_Ecopoint_Classification"><h3>♻️ Smart Waste Classifier</h3></a>
+        <h3><a href="https://github.com/DinisAmado/CNN_Ecopoint_Classification">♻️ Smart Waste Classifier</a></h3>
         <p>A Deep Learning system for automated waste sorting. Uses <b>CNNs</b> for feature extraction and multi-class classification of recyclables.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Computer%20Vision-5D3FD3?style=flat-square" />
@@ -53,8 +53,8 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <a href="https://github.com/DinisAmado/Projeto"><h3>🧠 LLM Sentiment Engine</h3></a>
-        <p>Advanced <b>Sentiment Analysis</b> leveraging Large Language Models. Exploring prompt engineering and zero-shot classification to detect emotional polarities in complex text.</p>
+        <h3><a href="https://github.com/DinisAmado/Projeto">🧠 LLM Sentiment Engine</a></h3>
+        <p>Comparative study of <b>Sentiment Analysis</b> using LLMs. Implementing <b>Prompt Engineering</b> and zero-shot learning to evaluate emotional nuances in unstructured text.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LLM-Generative%20AI-red?style=flat-square" />
       </div>
@@ -63,7 +63,7 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <a href="https://github.com/DinisAmado/UBI-G1-Robotics-2026"><h3>🤖 Autonomous Robotics Hub</h3></a>
+        <h3><a href="https://github.com/DinisAmado/UBI-G1-Robotics-2026">🤖 Autonomous Robotics Hub</a></h3>
         <p>Development of control algorithms and perception systems for autonomous robot navigation. Part of the <b>UBI Robotics 2026</b> initiative.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Robotics-000000?style=flat-square&logo=ros&logoColor=white" />
@@ -71,7 +71,7 @@ I'm a passionate **Data Science** and **Artificial Intelligence** student at the
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <a href="https://github.com/DinisAmado/Text_Summarizer"><h3>📝 AI Text Summarizer</h3></a>
+        <h3><a href="https://github.com/DinisAmado/Text_Summarizer">📝 AI Text Summarizer</a></h3>
         <p>An <b>NLP</b> tool designed to generate concise summaries from large documents using sequence-to-sequence models and linguistic processing.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
